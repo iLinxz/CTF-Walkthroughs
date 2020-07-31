@@ -5,8 +5,8 @@ This GitHub repository is here to serve the less experienced InfoSec community b
 ([HackTheBox](https://hackthebox.eu) boxes will be added eventually.)
 
 There are currently only two branches: 
-*TryHackMe 
-*VulnHub
+### *TryHackMe 
+### *VulnHub
 
 Inside of them, you'll find .pdf files uploaded by yours truly, showing my way of achieving r00t access to the boxes presented and some small talk about the methodologies, practices and some memes here and there.
 
