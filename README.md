@@ -10,5 +10,5 @@ There are currently only two branches:
 
 Inside of them, you'll find .pdf files uploaded by yours truly, showing my way of achieving r00t access to the boxes presented and some small talk about the methodologies, practices and some memes here and there.
 
-NOTE:
+# NOTE
 All passwords/usernames/flags that I find in these challenges will be blurred out so that anyone looking through this repository, trying to do a CTF challenge, will not be able to 'continue' with their respective challenge since they will literally still have to do the hard  work of typing stuff up in order achieve their goal: root.
