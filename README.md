@@ -1,6 +1,6 @@
 # Hello, World!
 
-This GitHub repository is here to serve the less experienced InfoSec community break through some challenges found in CTFs on the internet. The CTF Walkthroughs that I will be posting here are vulnerable Virtual Machines found on either [TryHackMe.com](https://tryhackme.com), [VulnHub.com](https://vulnhub.com) or ([HackTheBox](https://hackthebox.eu) 
+This GitHub repository is here to serve the less experienced InfoSec community break through some challenges found in CTFs on the internet. The CTF Walkthroughs that I will be posting here are vulnerable Virtual Machines found on either [TryHackMe.com](https://tryhackme.com), [VulnHub.com](https://vulnhub.com) or [HackTheBox](https://hackthebox.eu) 
 
 
 There are currently only three branches: 
