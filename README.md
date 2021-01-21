@@ -11,3 +11,5 @@ Inside of them, you'll find .pdf files uploaded by yours truly, showing my way o
 
 # NOTE
 All passwords/usernames/flags that I find in these challenges will be blurred out so that anyone looking through this repository, trying to do a CTF challenge, will not be able to 'continue' with their respective challenge since they will literally still have to do the hard  work of typing stuff up in order achieve their goal: root.
+
+***There are more than 20 machines I have rooted from HackTheBox, I need to find the time to write the actual reports. If you have any questions, about any machine, don't hesitate to contact me and I will try my best to help.
