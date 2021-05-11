@@ -24,6 +24,11 @@ This website is an automated tool to generate reverse shell payloads. It has an 
 
 This is a GitHub repository created by UK's cyber security elite: GCHQ. It is a repository that handles the encryption and decryption in various ways of any type of data. You will be spending lots of time here if you are doing cryptography based challenges.
 
+## GTFO Bins
+>www.gtfobins.github.io
+
+When you find yourself in need of escalating your privilleges, look no further. This GitHub repository hands you all the solutions you need. This repository is full of ways in which one can escalate his/her privilleges depending on what binary files are found on the victim system. Easy to use and follow. Highly recommend.
+
 ## LFI PHP Filter
 >www.example.com/vulnerable.php?=php://filter/convert.base64-encode/resource=index.php
 ```
