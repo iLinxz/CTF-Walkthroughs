@@ -1,6 +1,6 @@
 # Hello, World!
 
-This branch is reserved for all sorts of useful resources and cheatsheets I found on the internet. Some cheatsheets created by yours truly.
+This branch is reserved for all sorts of useful resources and cheatsheets I found on the internet.
 
 
 ## SQL Injection Cheatsheet <--> **Credits to John Hammond :D**
