@@ -25,7 +25,7 @@ Within this GitHub repository, a big number of other types of cheatsheets can be
 This website is an automated tool to generate reverse shell payloads. It has an easy to understand user interface and lots of ways to create a reverse, bind or even a MSFVenom shell payload. It is a complex and easy to use resource that saves you time and adds a customability factor to your work.
 
 ## GCHQ's CyberChef
->https://www.gchq.github.io/CyberChef
+>https://gchq.github.io/CyberChef/
 
 This is a GitHub repository created by UK's cyber security elite: GCHQ. It is a repository that handles the encryption and decryption in various ways of any type of data. You will be spending lots of time here if you are doing cryptography based challenges.
 
