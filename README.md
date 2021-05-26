@@ -9,7 +9,7 @@ This branch is reserved for all sorts of useful resources and cheatsheets I foun
 I have used this cheatsheet in many of my engagements whenever SQL injection was the way to exploit my victim. It is not a big cheatsheet by any means but it is very helpful, easy to understand and to apply.
 
 ## HackTricks | The go-to place for a quick fix!
->https://www.book.hacktricks.xyz
+>https://book.hacktricks.xyz/
 
 This website is a treasure for pentesters. You can find a myriad of technologies listed here with readily available commands to use that can help you in exploiting said technologies. From various IoT protocols to your standard MySQL Server commands, this is a place where you wanna start looking at when you encounter a new technology you need to gain access into.
 
